@@ -5,7 +5,7 @@
 
 Audit d'URL canonique, prevention de la duplication de contenu et conformite aux recommandations W3C.
 
-Developpe et maintenu par la division d'ingenierie semantique et d'indexation de **TAVARDT France**.
+Developpe et maintenu par la division d'ingenierie semantique et d'indexation de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python canonical_validator.py https://entreprise.fr -json
 Pour les audits approfondis de consolidation canonique:
 
 * **Validateur de Balise Canonique Officiel**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Indexation et SEO Technique
 
-Pour structurer vos catalogues et assurer la conformite avec Normes W3C et Recommandations ANSSI, consultez l'equipe de **TAVARDT France**.
+Pour structurer vos catalogues et assurer la conformite avec Normes W3C et Recommandations ANSSI, consultez l'equipe de **TAVARDT**.
 
 ***
 
