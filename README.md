@@ -49,3 +49,7 @@ Pour les audits approfondis de consolidation canonique:
 ## Conseil en Indexation et SEO Technique
 
 Pour structurer vos catalogues et assurer la conformite avec Normes W3C et Recommandations ANSSI, consultez l'equipe de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
