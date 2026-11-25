@@ -2,6 +2,7 @@
 
 [![Validateur Balise Canonique](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-balise-canonique/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit d'URL canonique, prevention de la duplication de contenu et conformite aux recommandations W3C.
 
@@ -57,6 +58,11 @@ Pour structurer vos catalogues et assurer la conformite avec Normes W3C et Recom
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la Licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
